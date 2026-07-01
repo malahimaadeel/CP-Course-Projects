@@ -15,13 +15,6 @@ A console-based unit converter built in C++. Handles currency, length, temperatu
 - C++
 - Standard I/O streams (`iostream`)
 
-## How to Run
-
-```bash
-g++ main.cpp -o converter
-./converter
-```
-
 ## Example
 
 ```
