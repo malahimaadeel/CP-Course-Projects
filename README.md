@@ -31,11 +31,5 @@ Submitted to: Engr. Zohaib Sohail
 - Functions (SearchFlight, BookFlight, CancelFlight)
 - String handling with getline
 
-## How to Run
-```bash
-g++ airline_ticketing_system.cpp -o airline
-./airline
-```
-
 ## Files
 - `airline_ticketing_system.cpp` — main code
