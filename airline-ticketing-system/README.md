@@ -1,4 +1,4 @@
-﻿# Airline Ticketing System ΓÇö C++
+﻿# Airline Ticketing System C++
 
 Computer Programming Lab project. CLI-based airline reservation system
 for national and international flights, built in C++.
@@ -32,4 +32,4 @@ Submitted to: Engr. Zohaib Sohail
 - String handling with getline
 
 ## Files
-- `airline_ticketing_system.cpp` ΓÇö main code
+- `airline_ticketing_system.cpp` main code
